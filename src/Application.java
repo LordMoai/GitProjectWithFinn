@@ -6,5 +6,7 @@ class Application {
 
     public Application() {
         System.out.println("Hello World! :^)");
+
+        System.out.println("GEIL!!!!");
     }
 }
